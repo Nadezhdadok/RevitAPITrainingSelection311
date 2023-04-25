@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\APPLICATIONS\RevitAPITraining\RevitAPITrainingSelection311.dll"</Assembly>
+		<AddInId>B7FE3925-D914-4E49-AE95-02B3AF2EBF7A</AddInId>
+		<FullClassName>RevitAPITrainingSelection311.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>объем стен по граням</Text>
+	</AddIn>
+</RevitAddIns>
